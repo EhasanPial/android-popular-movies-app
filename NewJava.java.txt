@@ -1,0 +1,14 @@
+class NewJava{
+	public String name ; 
+
+	NewJava() {} 
+	void getName(){
+	
+		return name;
+
+	}
+	String setName(){
+		this.name = name;
+	}
+
+}
