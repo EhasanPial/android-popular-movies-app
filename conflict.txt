@@ -1,1 +1,2 @@
-this is really a big conflict.
+this is not a big conflict.
+
