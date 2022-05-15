@@ -1,6 +1,6 @@
 class NewJava{
 	public String name ; 
-
+	public Integer age;
 	NewJava() {} 
 	void getName(){
 	
